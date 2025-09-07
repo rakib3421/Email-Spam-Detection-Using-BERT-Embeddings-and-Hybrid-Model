@@ -230,7 +230,7 @@ If you use this work in your research, please cite:
 
 For questions or support:
 - Open an issue on GitHub
-- Email: your-email@example.com
+- Email: rakibul15-3430@diu.edu.bd
 
 ---
 

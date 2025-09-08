@@ -1,0 +1,492 @@
+email,label
+"Subject: Congratulations! You've won a free iPhone!
+Dear user, you have been selected as the winner of our lottery. Click here to claim your prize: http://fake-prize.com/claim",spam
+"Subject: Meeting reminder
+Hi team, just a reminder that our weekly meeting is scheduled for tomorrow at 10 AM in conference room B. Please come prepared with your updates.",ham
+"Subject: URGENT: Your account has been suspended
+Your bank account has been temporarily suspended due to suspicious activity. Verify your identity now: http://bank-security-alert.com/verify",spam
+"Subject: Project update
+Hello, I've attached the latest project documentation. Please review and let me know if you have any questions. Thanks!",ham
+"Subject: Exclusive offer - 90% off on luxury watches
+Limited time offer! Get premium watches at unbelievable prices. Shop now before it's too late: http://luxury-deals.com/shop",spam
+"Subject: Vacation request
+Hi manager, I would like to request vacation time from June 15th to June 22nd. Please let me know if this works for the schedule.",ham
+"Subject: Important security update required
+Your software license is about to expire. Update immediately to avoid service interruption: http://software-update.com/download",spam
+"Subject: Team lunch this Friday
+Hey everyone, let's have our team lunch this Friday at the usual place. Looking forward to seeing you all there!",ham
+"Subject: Investment opportunity - Make money fast
+Double your investment in just 7 days! No risk, guaranteed returns. Contact me for details: investment-scam@fake.com",spam
+"Subject: Code review request
+I've pushed the new feature to the dev branch. Could you please review the code when you have time? Thanks.",ham
+"Subject: Important Update Regarding Your Recent Purchase
+
+Dear Valued Customer,
+
+Thank you for shopping with us recently. We noticed that your order #12345 has been successfully processed and is on its way to your doorstep. 
+
+As part of our customer appreciation program, we'd like to offer you an exclusive 20% discount on your next purchase. This offer is valid for the next 48 hours only.
+
+To take advantage of this special offer, simply click the link below and use code SAVE20 at checkout:
+https://secure-shop.com/special-offer
+
+If you have any questions about your order or need assistance, please don't hesitate to contact our customer service team at support@ourstore.com or call 1-800-123-4567.
+
+Best regards,
+The Customer Care Team
+Premium Online Store
+
+P.S. Don't forget to follow us on social media for more exclusive deals!",spam
+"Subject: Re: Project Timeline Discussion
+
+Hi Sarah,
+
+Thanks for your email. I completely agree that we need to adjust the timeline for the Q3 deliverables. The current schedule is quite aggressive, especially considering the recent changes in requirements.
+
+Regarding the budget concerns you mentioned, I think we can optimize the resource allocation by:
+1. Prioritizing the core features first
+2. Using some of the existing templates to speed up development
+3. Considering a phased rollout approach
+
+I've attached the updated project plan for your review. Please let me know your thoughts by end of day tomorrow.
+
+Also, I wanted to mention that I saw your post about the team building event - sounds like it was a great success! We should definitely plan more of those.
+
+Best,
+John
+Project Manager
+
+Attachment: Q3_Project_Plan_v2.pdf",ham
+"Subject: Security Alert: Unusual Login Activity Detected
+
+Dear Account Holder,
+
+We have detected unusual login activity on your account from an unrecognized device. For your security, we have temporarily limited access to your account.
+
+To restore full access, please verify your identity by clicking the link below:
+https://account-security.amazon.com/verify-identity
+
+If you did not attempt to log in recently, this could indicate that someone else is trying to access your account. Please contact our security team immediately.
+
+Your account security is our top priority.
+
+Sincerely,
+Amazon Security Team
+
+Reference ID: SEC-2025-0908-001",spam
+"Subject: Weekly Team Standup Notes - September 8, 2025
+
+Hello Team,
+
+Here are the notes from today's standup meeting:
+
+✅ Completed:
+- Database optimization (Ahmed)
+- API documentation updates (Maria)
+- Bug fixes in the authentication module (David)
+
+🚧 In Progress:
+- Frontend redesign (Sarah - 80% complete)
+- Mobile app testing (John - blocked on API changes)
+
+❓ Blockers:
+- Waiting for design approval on the new dashboard
+- Need access to staging environment for testing
+
+Next meeting: Tuesday, September 10 at 10:00 AM
+Location: Conference Room A
+
+Please update your tasks in the project management tool before the next standup.
+
+Thanks,
+Team Lead
+Engineering Department
+
+P.S. Don't forget to submit your timesheets by Friday!",ham
+"Subject: Exclusive Invitation: Join Our Premium Network
+
+Dear Professional,
+
+Congratulations! Your profile has been selected for invitation to our exclusive professional network. This invitation is extended to only 1% of qualified professionals in your field.
+
+Benefits of joining our premium network:
+• Access to high-level executive connections
+• Exclusive job opportunities not available on public job boards
+• Personalized career coaching sessions
+• Monthly networking events with industry leaders
+• Advanced analytics on your professional profile
+
+To accept this exclusive invitation and unlock these premium benefits, please complete your profile verification:
+https://elite-network.com/verify-profile
+
+This offer expires in 24 hours. Don't miss this opportunity to advance your career!
+
+Best regards,
+Elite Professional Network
+Membership Committee
+
+Confidential: This invitation is personalized and should not be shared.",spam
+"Subject: Code Review Request - Feature Branch: user-auth-improvements
+
+Hi David,
+
+I've pushed the user authentication improvements to the feature branch. Could you please review the changes when you have a moment?
+
+Key changes made:
+- Enhanced password validation (minimum 12 characters, special characters required)
+- Added two-factor authentication option
+- Improved error handling for login failures
+- Updated session management to prevent unauthorized access
+
+The changes are in branch: feature/user-auth-improvements
+PR Link: https://github.com/company/repo/pull/456
+
+I ran the test suite and everything is passing. Let me know if you have any questions or concerns.
+
+Thanks!
+Sarah
+Senior Developer
+
+P.S. I also noticed a potential security issue in the old auth code - we should probably address that in a separate ticket.",ham
+"Subject: Final Notice: Your Package is Waiting
+
+URGENT DELIVERY NOTICE
+
+Dear Customer,
+
+Your package has been held at our facility due to an incomplete delivery address. This is your FINAL NOTICE before the package is returned to sender.
+
+Package Details:
+Tracking Number: 1Z999AA1234567890
+Contents: High-value electronics
+Value: $1,299.99
+
+To release your package and provide the correct delivery information, please click here immediately:
+https://fedex-delivery-update.com/release-package
+
+Failure to respond within 24 hours will result in the package being returned, and you may be charged a $25 processing fee.
+
+Thank you for your prompt attention to this matter.
+
+FedEx Delivery Services
+Customer Service Department",spam
+"Subject: Re: Performance Review Discussion
+
+Hi Manager,
+
+Thank you for taking the time to discuss my performance review yesterday. I appreciate the feedback and the opportunity to talk about my career goals.
+
+Regarding the points you mentioned about the Q4 objectives, I wanted to follow up with a few thoughts:
+
+1. For the client presentation project, I believe we can leverage the new analytics dashboard to make our presentations more impactful
+2. On the team collaboration front, I'm happy to take the lead on organizing the knowledge sharing sessions
+3. For the certification goal, I've already started researching the available options and should have a recommendation by next week
+
+I've also been thinking about the professional development opportunities you mentioned. The leadership training program sounds particularly interesting.
+
+Let me know if you'd like me to put together a more detailed action plan for these objectives.
+
+Best regards,
+Employee Name
+Senior Analyst
+
+P.S. I wanted to mention that I really enjoyed the team lunch last week - it was great getting to know everyone better outside of work!",ham
+"Subject: Limited Time: Get Your Free Consultation Today!
+
+Dear Health Enthusiast,
+
+Are you tired of feeling sluggish and lacking energy? Do you want to transform your health and achieve your fitness goals?
+
+Our certified nutritionists and personal trainers are offering FREE 30-minute consultations this week only! During this consultation, you'll receive:
+
+✓ Personalized health assessment
+✓ Custom meal planning recommendations  
+✓ Exercise routine tailored to your goals
+✓ Access to our premium wellness app (valued at $49/month)
+
+This exclusive offer is available for a limited time. Spaces are filling up fast!
+
+Schedule your FREE consultation now:
+https://health-transformation.com/free-consultation
+
+Don't wait - your healthier self is just one click away!
+
+Warm regards,
+Dr. Wellness Team
+Certified Health & Fitness Experts
+
+*Results may vary. Consult your physician before starting any new health regimen.",spam
+"Subject: Database Migration Plan - Phase 2
+
+Hello Database Team,
+
+Following up on our discussion about the database migration project, I've put together a detailed plan for Phase 2.
+
+Current Status:
+- Phase 1 completed successfully (data export and initial validation)
+- All legacy data has been backed up
+- Test environment is ready for Phase 2 testing
+
+Phase 2 Timeline:
+Week 1 (Sept 9-13): Schema migration and table restructuring
+Week 2 (Sept 16-20): Data transformation and integrity checks
+Week 3 (Sept 23-27): Performance testing and optimization
+Week 4 (Sept 30-Oct 4): Final validation and go-live preparation
+
+Key Risks Identified:
+1. Potential data loss during transformation (mitigation: additional backups)
+2. Performance degradation during peak hours (mitigation: scheduled during off-peak)
+3. Application compatibility issues (mitigation: extensive testing in staging)
+
+I've scheduled a meeting for tomorrow at 2 PM to walk through the detailed migration scripts. Please come prepared with any questions or concerns.
+
+Also, a reminder that we have the vendor support session on Thursday - make sure to review the migration documentation beforehand.
+
+Thanks,
+Database Administrator
+IT Operations
+
+Attachments:
+- Phase2_Migration_Plan.pdf
+- Migration_Scripts_v1.2.sql
+- Risk_Assessment_Matrix.xlsx",ham
+"Subject: Breaking News: Major Market Movement Alert
+
+FINANCIAL ALERT - TIME SENSITIVE
+
+Dear Investor,
+
+URGENT: Major market movement detected in your portfolio sector. Our advanced AI algorithms have identified a critical opportunity that could impact your investments significantly.
+
+Key Developments:
+• Federal Reserve announcement expected tomorrow
+• Technology sector showing unusual volatility
+• Cryptocurrency markets experiencing rapid changes
+
+To protect your investments and capitalize on this opportunity, our expert analysts recommend immediate action. Click below for your personalized investment strategy:
+
+https://market-alerts.com/emergency-action
+
+This is not financial advice, but our track record shows 94% accuracy in market predictions.
+
+Don't miss this critical window - act now!
+
+Best regards,
+Market Intelligence Team
+Premium Investment Advisory
+
+*Past performance does not guarantee future results.",spam
+"Subject: Re: Client Meeting Follow-up - ABC Corporation
+
+Hi Team,
+
+Thanks for joining the client meeting with ABC Corporation this morning. I wanted to quickly summarize the key points and action items:
+
+Meeting Summary:
+- Client is very pleased with the progress on the dashboard project
+- They requested some additional features for the reporting module
+- Budget approval for Phase 2 has been confirmed
+- Timeline extended by 2 weeks due to scope changes
+
+Action Items:
+1. Sarah: Update the requirements document with the new features (Due: Sept 12)
+2. John: Prepare the revised timeline and send to client for approval (Due: Sept 13)  
+3. David: Schedule the technical demo for next week (Due: Sept 10)
+4. Maria: Follow up with the client on the data integration questions (Due: Sept 11)
+
+I've attached the meeting notes and the updated project timeline. Please review and let me know if I missed anything.
+
+Also, a quick reminder about the all-hands meeting tomorrow at 9 AM - please be on time as we'll be discussing the Q4 roadmap.
+
+Thanks everyone for the great work on this project!
+
+Best,
+Project Manager
+Client Services
+
+Attachments:
+- ABC_Meeting_Notes_09082025.pdf
+- Updated_Project_Timeline.xlsx",ham
+"Subject: Your Account Has Been Selected for Premium Upgrade
+
+CONGRATULATIONS!
+
+Dear Valued Member,
+
+We're excited to inform you that your account has been randomly selected for our exclusive Premium Membership upgrade!
+
+What you get with Premium:
+🎉 Unlimited access to all premium features
+🎉 Priority customer support
+🎉 Exclusive member-only events
+🎉 50% discount on all purchases
+🎉 Free shipping on orders over $50
+
+This special upgrade is completely FREE for the first 3 months, and you can cancel anytime.
+
+To activate your premium benefits immediately, simply click the activation link below:
+https://account-upgrade.net/activate-premium
+
+Don't miss out on these amazing benefits - activate now!
+
+Best wishes,
+Membership Rewards Team
+Premium Services Network
+
+*Offer valid for selected members only. Terms and conditions apply.",spam
+"Subject: Incident Report - Server Outage Resolution
+
+Hello IT Team,
+
+I'm writing to provide an update on the server outage that occurred last night.
+
+Incident Summary:
+- Time: 2:15 AM - 3:45 AM EDT
+- Affected Systems: Web server cluster, database servers
+- Impact: Website unavailable, API calls failing
+- Root Cause: Memory leak in the caching layer due to recent code deployment
+
+Resolution Steps Taken:
+1. Identified the problematic deployment (commit #a1b2c3d)
+2. Rolled back to previous stable version
+3. Restarted affected services
+4. Verified database integrity
+5. Monitored system performance for 2 hours post-resolution
+
+The website is now fully operational and all services are running normally. We've implemented additional monitoring to prevent similar issues in the future.
+
+Post-mortem meeting scheduled for tomorrow at 10 AM. Please come prepared to discuss:
+- What went wrong
+- How we can improve our deployment process
+- Additional safeguards we should implement
+
+I've attached the detailed incident report and logs for your reference.
+
+Thanks for your quick response during the outage.
+
+Best regards,
+DevOps Engineer
+Infrastructure Team
+
+Attachments:
+- Incident_Report_20250908.pdf
+- Server_Logs_Outage.zip
+- Post_Mortem_Agenda.docx",ham
+"Subject: Exclusive Business Opportunity - Partner With Us
+
+Dear Business Owner,
+
+Are you looking to expand your business and increase your revenue streams? We have an exclusive opportunity that could transform your business!
+
+Our proven system has helped thousands of businesses like yours:
+✅ Increase revenue by 300% in the first 6 months
+✅ Access to our extensive network of partners
+✅ Professional marketing and branding support
+✅ Ongoing mentorship and training
+✅ Low startup costs with high ROI potential
+
+This is a limited-time opportunity available to select business owners only. We're currently accepting applications for our next cohort.
+
+To learn more and apply for this exclusive opportunity:
+https://business-growth.com/apply-now
+
+Don't miss this chance to take your business to the next level!
+
+Sincerely,
+Business Development Team
+Growth Accelerator Program
+
+*Results based on average performance of our top performers.",spam
+"Subject: Code Quality Improvement Initiative
+
+Hi Development Team,
+
+I wanted to start a discussion about improving our code quality across the organization. As our codebase grows, maintaining high standards becomes increasingly important.
+
+Current State Analysis:
+- Average code coverage: 78%
+- Technical debt has increased by 15% over the last quarter
+- Code review turnaround time: 2.5 days average
+- Number of critical bugs in production: 3 this month
+
+Proposed Improvements:
+1. Implement automated code quality checks in CI/CD pipeline
+2. Establish coding standards and best practices documentation
+3. Increase frequency of code reviews and pair programming
+4. Invest in developer training and tooling
+5. Regular code refactoring sessions
+
+I've created a shared document where we can collaborate on this initiative. Please add your thoughts and suggestions:
+https://docs.company.com/code-quality-initiative
+
+Let's schedule a team meeting to discuss this further. What day works best for everyone?
+
+Thanks for your commitment to excellence!
+
+Best,
+Engineering Manager
+Quality Assurance Lead
+
+P.S. I also wanted to congratulate Sarah on her recent certification - great job!",ham
+"Subject: FINAL WARNING: Legal Action Pending
+
+LEGAL NOTICE - IMMEDIATE ATTENTION REQUIRED
+
+Dear Account Holder,
+
+This is your FINAL WARNING regarding outstanding payments on your account. Despite multiple previous notices, your account remains delinquent.
+
+Outstanding Balance: $2,847.93
+Due Date: September 1, 2025
+Days Past Due: 7
+
+If payment is not received within 5 business days, we will be forced to take the following actions:
+• Report to credit bureaus
+• Initiate legal proceedings
+• Place liens on your property
+• Wage garnishment
+
+To avoid these severe consequences, make payment immediately using one of the following options:
+1. Online Payment: https://secure-payment-portal.com/pay-now
+2. Phone Payment: Call 1-888-555-0123
+3. Mail Payment: Send check to the address below
+
+Do not ignore this notice. Legal action is imminent.
+
+Sincerely,
+Collections Department
+Financial Services Corporation
+
+Reference Number: COLL-2025-0908-789",spam
+"Subject: Re: Quarterly Business Review - Q3 2025
+
+Hello Leadership Team,
+
+Thank you all for your participation in yesterday's quarterly business review. It was great to see everyone's progress and hear about the exciting initiatives underway.
+
+Key Takeaways from the Meeting:
+- Revenue targets exceeded by 12% for Q3
+- Customer satisfaction scores improved to 94%
+- New product launch on track for Q4
+- Headcount growth of 8% to support expansion
+
+Action Items Assigned:
+1. CFO: Prepare detailed financial projections for Q4 (Due: Sept 15)
+2. CTO: Update on technology roadmap and infrastructure needs (Due: Sept 20)
+3. CMO: Marketing campaign performance analysis (Due: Sept 18)
+4. COO: Operational efficiency improvements plan (Due: Sept 22)
+
+I've attached the meeting presentation and the updated strategic plan. Please review and let me know if you need any additional information.
+
+Also, a reminder that our annual company retreat is coming up in October. The planning committee is looking for volunteers - please let me know if you're interested in helping.
+
+Congratulations again on a strong quarter!
+
+Best regards,
+CEO
+Executive Team
+
+Attachments:
+- Q3_Business_Review_Presentation.pdf
+- Strategic_Plan_2025_Update.docx
+- Financial_Summary_Q3.xlsx",ham

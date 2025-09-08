@@ -1,0 +1,37 @@
+Flask
+Werkzeug
+Jinja2
+MarkupSafe
+itsdangerous
+click
+
+# Machine Learning and NLP
+scikit-learn
+numpy
+pandas
+nltk
+joblib
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+transformers
+
+# Additional ML libraries
+xgboost
+lightgbm
+
+# Text processing
+regex
+tokenizers
+
+# Utilities
+requests
+urllib3
+certifi
+charset-normalizer
+idna
+
+# Development
+python-dotenv

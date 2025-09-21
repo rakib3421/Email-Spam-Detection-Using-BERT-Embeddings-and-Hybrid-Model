@@ -4,6 +4,7 @@ Jinja2
 MarkupSafe
 itsdangerous
 click
+gunicorn
 
 # Machine Learning and NLP
 scikit-learn

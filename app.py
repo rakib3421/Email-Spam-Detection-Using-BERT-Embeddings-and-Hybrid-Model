@@ -25,6 +25,11 @@ except:
 
 app = Flask(__name__)
 
+# Production configuration
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your-secret-key-change-in-production')
+app.config['ENV'] = 'production'
+app.config['DEBUG'] = False
+
 class SpamDetector:
     """Advanced spam detector with BERT and ML ensemble"""
     
@@ -263,4 +268,5 @@ def about():
     return render_template('about.html')
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    # Production settings
+    app.run(debug=False, host='0.0.0.0', port=5000)

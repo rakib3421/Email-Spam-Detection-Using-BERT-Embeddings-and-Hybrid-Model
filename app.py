@@ -26,7 +26,7 @@ except:
 app = Flask(__name__)
 
 # Production configuration
-app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your-secret-key-change-in-production')
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'rakib@7254')
 app.config['ENV'] = 'production'
 app.config['DEBUG'] = False
 
